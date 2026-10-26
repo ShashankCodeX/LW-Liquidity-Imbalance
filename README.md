@@ -19,7 +19,7 @@ A TradingView Pine Script v5 overlay indicator for liquidity sweep signals and f
 
 ## Inputs
 
-The indicator lets you adjust swing length, sweep and stop-hunt labels, sweep confirmation settings, FVG visibility and midlines, minimum FVG size, and whether mitigated gaps are hidden.
+The inputs control swing length, sweep and label visibility, FVG and midline visibility, minimum FVG size, and whether mitigated gaps are hidden.
 
 ## Notes
 
