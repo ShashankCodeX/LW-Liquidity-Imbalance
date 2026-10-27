@@ -24,3 +24,7 @@ The inputs control swing length, sweep and label visibility, FVG and midline vis
 ## Notes
 
 The script is provided as-is. Signals are based on the rules in the source and should be evaluated on your chart and timeframe; this repository does not make a performance or accuracy guarantee.
+
+## License
+
+Licensed under the MIT License; see [LICENSE](./LICENSE).
